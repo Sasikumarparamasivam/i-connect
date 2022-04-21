@@ -1,0 +1,11 @@
+Welcome to i-connect
+
+1. Login page
+
+2. Leave Management
+
+3. Payroll
+
+4. HR
+
+5. Admin
